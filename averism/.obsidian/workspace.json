@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "802e0f22035eb312",
+        "id": "5bb9f5d376d1814a",
         "type": "tabs",
         "children": [
           {
-            "id": "51e64c55e135f92d",
+            "id": "5e8a7002f7b46476",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scripture/02 - Reality/06 - Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scripture/02 - Reality/06 - Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Scripture/02 - Reality/06 - Space.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,11 +181,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-pages-share:Publish current note": false
     }
   },
-  "active": "d88f50e860276b73",
+  "active": "5e8a7002f7b46476",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Scripture/docs/404.html",
+    "Scripture/README.md",
+    "Scripture/docs/manifest.json",
+    "Scripture/node_modules/sprintf-js/test/test.js",
+    "Scripture/node_modules/sprintf-js/test",
+    "Scripture/node_modules/sprintf-js/src/sprintf.js",
+    "Scripture/node_modules/sprintf-js/src/angular-sprintf.js",
+    "Scripture/node_modules/sprintf-js/src",
+    "Scripture/node_modules/registry-auth-token/test/registry-url.test.js",
+    "Scripture/node_modules/registry-auth-token/test/auth-token.test.js",
+    "Scripture/node_modules/registry-auth-token/test",
+    "Scripture/node_modules/minimist/example/parse.js",
+    "Scripture/node_modules/ajv/README.md",
+    "Scripture/node_modules/clipboardy/readme.md",
+    "Scripture/node_modules/human-signals/README.md",
+    "Scripture/node_modules/negotiator/HISTORY.md",
+    "Scripture/node_modules/emoji-regex/README.md",
+    "Scripture/node_modules/mime-types/node_modules/mime-db/HISTORY.md",
+    "Scripture/node_modules/which/README.md",
+    "Scripture/node_modules/which/CHANGELOG.md",
+    "Scripture/node_modules/get-stream/readme.md",
+    "Scripture/node_modules/bytes/Readme.md",
+    "Scripture/node_modules/chalk-template/node_modules/ansi-styles/readme.md",
+    "Scripture/node_modules/kind-of/CHANGELOG.md",
+    "Scripture/node_modules/color-name/README.md",
+    "Scripture/node_modules/ansi-align/node_modules/strip-ansi/readme.md",
+    "Scripture/node_modules/require-from-string/readme.md",
+    "Scripture/node_modules/string-width/readme.md",
+    "Scripture/node_modules/is-wsl/readme.md",
+    "Scripture/node_modules/safe-buffer/README.md",
+    "Scripture/node_modules/deep-extend/CHANGELOG.md",
+    "Scripture/02 - Reality/12 - What We Can Know About Reality.md",
+    "Scripture/02 - Reality/11 - What We Cannot Observe.md",
+    "Scripture/02 - Reality/10 - The Laws of Nature.md",
+    "Untitled.md",
+    "Scripture/02 - Reality/09 - The Universe.md"
   ]
 }

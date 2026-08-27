@@ -1,0 +1,19 @@
+{
+  "name": "averism-scripture",
+  "version": "1.0.0",
+  "description": "Averism Scripture - Digital Bible Reader",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js && npx serve docs"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
