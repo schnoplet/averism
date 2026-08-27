@@ -187,6 +187,11 @@
   },
   "active": "5e8a7002f7b46476",
   "lastOpenFiles": [
+    "Scripture/node_modules/fast-deep-equal/es6/react.js",
+    "Scripture/node_modules/fast-deep-equal/es6/index.js",
+    "Scripture/node_modules/fast-deep-equal/es6/react.d.ts",
+    "Scripture/node_modules/fast-deep-equal/es6/index.d.ts",
+    "Scripture/node_modules/fast-deep-equal/es6",
     "README.md",
     "Scripture/node_modules/wrap-ansi/readme.md",
     "Scripture/node_modules/widest-line/readme.md",
@@ -212,16 +217,11 @@
     "Scripture/node_modules/registry-url/readme.md",
     "Scripture/node_modules/registry-auth-token/README.md",
     "Scripture/node_modules/registry-auth-token/CHANGELOG.md",
-    "Scripture/node_modules/rc/README.md",
     "Scripture/node_modules/strip-bom-string/index.js",
     "Scripture/node_modules/strip-bom-string/package.json",
     "Scripture/node_modules/esprima/package.json",
     "Scripture/node_modules/js-yaml/index.js",
     "Scripture/node_modules/js-yaml/package.json",
-    "Scripture/node_modules/is-extendable/index.js",
-    "Scripture/node_modules/is-extendable/package.json",
-    "Scripture/node_modules/extend-shallow/index.js",
-    "Scripture/node_modules/extend-shallow/package.json",
-    "Scripture/node_modules/kind-of/package.json"
+    "Scripture/node_modules/is-extendable/index.js"
   ]
 }
